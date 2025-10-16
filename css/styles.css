@@ -16,11 +16,11 @@
     font-family: 'Devonshire', cursive;
   color: #E35335;}
 
-{ position: relative;
+#header { position: relative;
   margin-top: 40px;
   border-radius: 12px 12px 0px 0px;}
 
-{   background-color: #777;
+#footer {   background-color: #777;
     height: 80px;
     clear: both;}
 
@@ -42,10 +42,10 @@ body {   background-image: url("../images/black.jpg"); }
     float: left;
     margin-left: 15px;}
 
-{ font-size: 2em;
+strong { font-size: 2em;
   font-weight: 900;}
 
-{   float: right;
+.image-r {   float: right;
     border: 2px solid blue;
   width: 300px;
     padding: 5px;
@@ -68,7 +68,7 @@ body {   background-image: url("../images/black.jpg"); }
 {   background-color: #ccc;
     color: #333;}
 
-{   width: 960px;
+#page-wrapper{   width: 960px;
     margin: 0 auto;
     box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
     border-radius: 12px 12px 0px 0px; }
@@ -77,8 +77,8 @@ body {   background-image: url("../images/black.jpg"); }
     position: relative;
     right: 50%;}
 
-{       width: 960px;
-        text-align: center;}
+{   width: 960px;
+    text-align: center;}
 
-{       font-weight: 900;
-        font-size: 48px;}
+{   font-weight: 900;
+    font-size: 48px;}
