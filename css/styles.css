@@ -34,7 +34,7 @@
 #content-wrapper {   background-image: url("../images/repeating.png");
     float: left;}
 
-body {   background-image: url("../images/black.jpg"); }
+body {   background-image: url("../images/black.jpg"); }  
 
 {   min-height: 300px;
     width: 715px;
@@ -76,7 +76,7 @@ body {   background-image: url("../images/black.jpg"); }
 {   float: left;
     position: relative;
     right: 50%;}
-    
+
 {       width: 960px;
         text-align: center;}
 
